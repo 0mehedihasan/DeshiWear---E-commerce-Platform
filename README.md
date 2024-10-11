@@ -82,9 +82,15 @@ DeshiWear is set to revolutionize the e-commerce landscape in Bangladesh by comb
 
 Contact Us
 
-For any queries or further information, visit our website at DeshiWear.com or email us at support@deshiwear.com.
+For any queries or further information, email at mdmehedihasansr@gmail.com
 
 ---
 
 ###This README.md provides an overview of DeshiWear’s functionalities and the AI-driven model that powers its unique virtual try-on feature.
 
+
+# Canva Poster Design
+## Link: https://www.canva.com/design/DAGTQOPzOsQ/lP-hZCJW5oKn9cVtJmlqVQ/edit?utm_content=DAGTQOPzOsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# Figma Design Link
+## Link: https://www.figma.com/community/file/1365263619600313207/cloth-store-fashion-store-e-commerce-ui-kit
