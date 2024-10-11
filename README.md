@@ -1,6 +1,7 @@
 <p align="center">
   <img src="deshiwearbd.png" alt="DeshiWear Logo" width="250" height="250"/>
 </p>
+
 # DeshiWear - E-commerce Platform
 DeshiWear is an online marketplace offering a wide range of traditional and contemporary clothing, specially curated to promote Bangladeshi fashion. To enhance customer experience, DeshiWear incorporates an AI-powered Virtual Try-On (VTON) feature, enabling users to visualize how selected clothes would look on them before making a purchase. This document outlines the platform’s key features, its AI-driven VTON model, and the technologies used.
 
